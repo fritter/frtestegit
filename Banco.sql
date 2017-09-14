@@ -1,3 +1,5 @@
+Alterei para ver
+
 strsql += ") Values ( @pidconfig, @pidcliente, @piditem,";
                         strsql += "@pdescr_compl,";
                         strsql += "@pqtd,unid,";
